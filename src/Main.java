@@ -4,7 +4,6 @@ import Functions.Reverse;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
 
         Reverse reverse = new Reverse();
         IsPalindrome palindrome = new IsPalindrome();
