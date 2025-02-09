@@ -1,0 +1,53 @@
+Palíndromos
+ama
+ana
+arara
+asa
+esse
+mamam
+matam
+metem
+mirim
+oco
+osso
+ovo
+radar
+ralar
+reger
+reler
+reter
+rever
+socos
+sopapos
+Palavras que podem ser revertidas (formam outras palavras com significado)
+amor -> roma
+atlas -> salta
+avó -> ova
+lado -> odal
+lago -> ogal
+lama -> amal
+lata -> atal
+mar -> ram
+meta -> atem
+missa -> assim
+pás -> sap
+poeta -> ateop
+porta -> atrop
+ramo -> omar
+rede -> eder
+reviver -> reviver
+ser -> res
+sol -> los
+som -> mos
+traz -> zart
+Anagramas
+amor -> roma -> mora
+festa -> faste -> fetas
+mare -> rame -> amer
+pares -> pesar -> spare
+prato -> porta -> trapo
+resto -> setor -> tores
+arte -> reta -> ater
+caso -> caos -> soca
+meta -> mate -> tema
+poder -> pedro -> predo
